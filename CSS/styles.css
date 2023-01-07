@@ -1,0 +1,160 @@
+
+/* /////////////non div classes/////////////*/
+hr{
+  width: 90%;
+  border-color: #fff;
+}
+
+
+
+
+
+/* /////////////non div classes/////////////*/
+
+/* /////////////div classes/////////////*/
+
+.Menu {
+    position: relative;
+    right: 14%; 
+  }
+
+
+.bright-future {
+    width: 312px;
+    position: absolute;
+    height: 97px;
+    padding-top: 1px;
+    margin-top: 35px;
+    border-left-width: 0px;
+    border-top-width: 0px;
+    margin-right: 0px;
+    margin-bottom: 16px;
+    left: 102px;
+  }
+
+.W-logo{
+  position: relative;
+    left: 8%;
+}
+
+.image-desktop{
+  height: 250px;
+  width: 760px;
+  margin-left: 105px;
+}
+
+.blue-block {
+  background-color: #080938;
+  height: 438px;
+  width: 316px;
+  position: absolute;
+  left: 67%;
+  top: 18%;
+}
+
+
+.Ten-Laptops{
+  position: relative;
+  left: 28%;
+  bottom: 128px;
+}
+
+.consoles-img {
+  width: 42%;
+  position: relative;
+  left: 49%;
+}
+
+.laptops-img {
+  width: 42%;
+  position: relative;
+  left: 49%;
+}
+
+.growthofgaming-img{
+  width: 42%;
+  position: relative;
+  left: 49%;
+}
+
+.Growth-of-Gaming {
+  position: relative;
+  left: 55%;
+  top: -254px;
+}
+
+.container-box-no1 {
+  width: 30%;
+  position: relative;
+  left: 440px;
+  bottom: 133px;
+}
+
+.bright-future {
+  text-align: left;
+  font-size: 2.5em;
+  position: relative;
+  left: 102px;
+  top: -18px;
+}
+
+.Read-more {
+  background: #e8313a;
+  background-image: -webkit-linear-gradient(top, #e8313a, #e8313a);
+  background-image: -moz-linear-gradient(top, #e8313a, #e8313a);
+  background-image: -ms-linear-gradient(top, #e8313a, #e8313a);
+  background-image: -o-linear-gradient(top, #e8313a, #e8313a);
+  background-image: linear-gradient(to bottom, #e8313a, #e8313a);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 17px;
+  padding: 16px 22px 15px 22px;
+  text-decoration: none;
+}
+
+.Read-more:hover {
+  background: #0b006b;
+  background-image: -webkit-linear-gradient(top, #0b006b, #0b006b);
+  background-image: -moz-linear-gradient(top, #0b006b, #0b006b);
+  background-image: -ms-linear-gradient(top, #0b006b, #0b006b);
+  background-image: -o-linear-gradient(top, #0b006b, #0b006b);
+  background-image: linear-gradient(to bottom, #0b006b, #0b006b);
+  text-decoration: none;
+}
+
+.Reviving-Retro {
+  height: 50%;
+  position: relative;
+  top: 9px;
+}
+
+.attribution{
+  position: relative;
+    bottom: 162px;
+}
+
+.section {
+  position: relative;
+  bottom: 41px;
+}
+
+.table-div {
+  width: 294px;
+  line-height: 25px;
+  position: relative;
+  top: 5%;
+  text-decoration-color: #fff;
+}
+
+.table-wording {
+  color: grey;
+}
+
+.hover-orange:hover {
+  color: #ED730F;
+}
+
+/* /////////////div classes/////////////*/
